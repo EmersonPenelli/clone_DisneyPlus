@@ -1,7 +1,3 @@
- <img src="https://github.com/emmanuelmarcosdeoliveira/bikcraft/blob/main/img/bikcraft-readme/Banner.png">
-<br>
-<div align="center">
-
 [Descrição](#--descrição-do-projeto-) |
 [Funcionalidades](#%EF%B8%8F-funcionalidades)|
 [Como executar esse projeto ?](#%EF%B8%8F-como-executar-esse-projeto-) |
@@ -11,12 +7,12 @@
 </div>
 <br>
 <div style="display: inline_block">
-<img alt="Github License" src="https://img.shields.io/github/license/emmanuelmarcosdeoliveira/disney_plus_clone" />
-<img alt="" src="https://img.shields.io/github/repo-size/emmanuelmarcosdeoliveira/disney_plus_clone" />
-<img alt="GitHub Package.json Version" src="https://img.shields.io/github/package-json/v/emmanuelmarcosdeoliveira/disney_plus_clone" />
-<img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/emmanuelmarcosdeoliveira/disney_plus_clone" />
-<img alt="GitHub Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/emmanuelmarcosdeoliveira/disney_plus_clone" />
-<img alt="GitHub Forks" src="https://img.shields.io/github/forks/emmanuelmarcosdeoliveira/disney_plus_clone" />
+<img alt="GitHub" src="https://img.shields.io/github/license/EmersonPenelli/clone_DisneyPlus">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/EmersonPenelli/clone_DisneyPlus">
+<img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/EmersonPenelli/clone_DisneyPlus">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/EmersonPenelli/clone_DisneyPlus">
+<img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/EmersonPenelli/clone_DisneyPlus">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/EmersonPenelli/clone_DisneyPlus">
   </div>
 
 <br>
